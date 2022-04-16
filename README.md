@@ -30,6 +30,7 @@ config.rasi -> ~/.config/rofi/<br>
 themes -> ~/.local/share/rofi/
 
 <br>
+
 <br>
 
 <h3>Bspwm and Sxhkd:</h3>
@@ -41,6 +42,7 @@ bspwmrc -> ~/.config/bspwm/<br>
 sxhkdrc -> ~/.config/sxhkd/
 
 <br>
+
 <br>
 
 <h3>Mpd and Ncmpcpp:</h3>
@@ -52,6 +54,7 @@ https://archlinux.org/packages/community/x86_64/ncmpcpp/ <br>
 .ncmpcpp -> homedir
 
 <br>
+
 <br>
 
 <h3>GTK themes and styles:</h3>
@@ -64,8 +67,7 @@ https://archlinux.org/packages/extra/x86_64/nitrogen/
 .themes -> homedir<br>
 .icons -> homedir
 
-<br>
-<br>
+ <br>
 
 <h3>(oh my) ZSH  theme and plugins:</h3>
 ZSH, Oh-my-zsh, zsh-autosuggestions, spaceship<br>
@@ -76,6 +78,24 @@ https://github.com/spaceship-prompt/spaceship-prompt
 <br>
 
 .zshrc -> homedir
+
+<br>
+
+<br>
+
+<h3>Nvim theme and plugins:</h3>
+Nvim from official rep<br>
+https://archlinux.org/packages/community/x86_64/neovim/<br>
+vim plug:<br>
+https://github.com/junegunn/vim-plug <br>
+Theme in dir. This is custom colors theme on base tokyonight. (little changes)
+<br>
+Airline theme include.
+<br>
+
+nvim -> ~/.config/ <br>
+tokyonight.nvim -> ~/.local/share/nvim/plugged/ <br>
+transparent.vim -> ~/.local/share/nvim/plugged/vim-airline-themes/autoload/airline/themes/
 
 <br>
 <br>
