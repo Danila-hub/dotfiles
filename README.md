@@ -80,7 +80,6 @@ https://github.com/spaceship-prompt/spaceship-prompt
 .zshrc -> homedir
 
 <br>
-<br>
 
 <h3>Nvim theme and plugins:</h3>
 Nvim from official rep<br>
@@ -109,4 +108,13 @@ https://aur.archlinux.org/packages/xbindkeys_config-gtk2
 .xbindkeysrc -> homedir
 
 <br>
+
+<h3>Picom:</h3>
+
+picom-ibhagwan-git from AUR rep<br>
+https://aur.archlinux.org/packages/picom-ibhagwan-git
+<br>
+
+picom.conf -> ~/.config/picom/
+
 <br>
