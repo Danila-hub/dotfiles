@@ -56,12 +56,26 @@ https://archlinux.org/packages/community/x86_64/ncmpcpp/ <br>
 
 <h3>GTK themes and styles:</h3>
 Move all to home directory <br>
-Use lxappearance:
+Use lxappearance and nitrogen (for wallpapers):
 https://archlinux.org/packages/community/x86_64/lxappearance/
+https://archlinux.org/packages/extra/x86_64/nitrogen/
 <br>
 
 .themes -> homedir<br>
 .icons -> homedir
+
+<br>
+<br>
+
+<h3>(oh my) ZSH  theme and plugins:</h3>
+ZSH, Oh-my-zsh, zsh-autosuggestions, spaceship<br>
+https://archlinux.org/packages/extra/x86_64/zsh/
+https://aur.archlinux.org/packages/oh-my-zsh-git
+https://github.com/zsh-users/zsh-autosuggestions
+https://github.com/spaceship-prompt/spaceship-prompt
+<br>
+
+.zshrc -> homedir
 
 <br>
 <br>
