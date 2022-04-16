@@ -80,7 +80,6 @@ https://github.com/spaceship-prompt/spaceship-prompt
 .zshrc -> homedir
 
 <br>
-
 <br>
 
 <h3>Nvim theme and plugins:</h3>
@@ -92,10 +91,22 @@ Theme in dir. This is custom colors theme on base tokyonight. (little changes)
 <br>
 Airline theme include.
 <br>
-
+<br>
 nvim -> ~/.config/ <br>
 tokyonight.nvim -> ~/.local/share/nvim/plugged/ <br>
 transparent.vim -> ~/.local/share/nvim/plugged/vim-airline-themes/autoload/airline/themes/
+
+<br>
+<br>
+
+<h3>Xbindkeys:</h3>
+Xbindkeys from official rep<br>
+xbindkeys_config-gtk2 from AUR rep<br>
+https://archlinux.org/packages/community/x86_64/xbindkeys/<br>
+https://aur.archlinux.org/packages/xbindkeys_config-gtk2
+<br>
+
+.xbindkeysrc -> homedir
 
 <br>
 <br>
