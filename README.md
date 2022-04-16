@@ -42,3 +42,14 @@ sxhkdrc -> ~/.config/sxhkd/
 
 <br>
 <br>
+
+<h3>Mpd and Ncmpcpp:</h3>
+All from official reps <br>
+https://archlinux.org/packages/extra/x86_64/mpd/ <br>
+https://archlinux.org/packages/community/x86_64/ncmpcpp/ <br>
+<br>
+.mpd -> homedir
+.ncmpcpp -> homedir
+
+<br>
+<br>
