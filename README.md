@@ -26,7 +26,7 @@ kitty.conf -> ~/.config/kitty/
 Rofi from official rep <br>
 https://archlinux.org/packages/community/x86_64/rofi/ <br> 
 <br>
-config.rasi -> ~/.config/rofi/
+config.rasi -> ~/.config/rofi/<br>
 themes -> ~/.local/share/rofi/
 
 <br>
@@ -37,7 +37,7 @@ All from official reps <br>
 https://archlinux.org/packages/community/x86_64/bspwm/ <br>
 https://archlinux.org/packages/community/x86_64/sxhkd/ <br>
 <br>
-bspwmrc -> ~/.config/bspwm/
+bspwmrc -> ~/.config/bspwm/<br>
 sxhkdrc -> ~/.config/sxhkd/
 
 <br>
@@ -48,7 +48,7 @@ All from official reps <br>
 https://archlinux.org/packages/extra/x86_64/mpd/ <br>
 https://archlinux.org/packages/community/x86_64/ncmpcpp/ <br>
 <br>
-.mpd -> homedir
+.mpd -> homedir<br>
 .ncmpcpp -> homedir
 
 <br>
