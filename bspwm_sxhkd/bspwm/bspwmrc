@@ -1,0 +1,46 @@
+#! /bin/sh
+
+pgrep -x sxhkd > /dev/null || sxhkd &
+xsetroot -cursor_name left_ptr & 
+
+picom --experimental-backend &
+
+nvidia-settings &    
+nitrogen --restore &
+
+
+#bash ~/.config/polybar/launch.sh --shapes
+bash ~/.config/polybar/launch.sh &
+
+xbindkeys
+mpd &
+
+#Change color of borders
+bspc config normal_border_color  \#242326
+bspc config focused_border_color \#710C71
+bspc config active_border_color	 \#242326
+
+
+bspc monitor DP-0 -d あ り が
+bspc monitor HDMI-0 -d と う ☯ 
+bspc monitor DP-2 -d で す 〆 
+
+bspc config border_width        1
+bspc config window_gap          12
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+bspc rule -a Gimp desktop='^8' state=floating follow=on
+
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+
+
+
+
+
+
+
