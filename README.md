@@ -53,3 +53,15 @@ https://archlinux.org/packages/community/x86_64/ncmpcpp/ <br>
 
 <br>
 <br>
+
+<h3>GTK themes and styles:</h3>
+Move all to home directory <br>
+Use lxappearance:
+https://archlinux.org/packages/community/x86_64/lxappearance/
+<br>
+
+.themes -> homedir<br>
+.icons -> homedir
+
+<br>
+<br>
