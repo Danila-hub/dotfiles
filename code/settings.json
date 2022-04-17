@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "Modern Purple Theme Dark",
+  "glassit.alpha": 225,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.fontSize": 15,
+  "editor.fontFamily": "FiraCode Nerd Font",
+  "workbench.iconTheme": "material-icon-theme",
+  "path-autocomplete.pathMappings": {
+    "@img": "${folder}/src/img",
+    "@scss": "${folder}/src/scss",
+    "@js": "${folder}/src/js"
+  },
+  "explorer.confirmDelete": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
+}

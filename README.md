@@ -118,3 +118,21 @@ https://aur.archlinux.org/packages/picom-ibhagwan-git
 picom.conf -> ~/.config/picom/
 
 <br>
+
+<h3>Vscode:</h3>
+
+Microsoft-branded binary release from AUR:<br>
+https://aur.archlinux.org/packages/visual-studio-code-bin
+<br>
+
+settings.json -> ~/.config/Code/User/ <br>
+
+List of recommend extensions and theme: <br>
+Auto Close Tag <br>
+Auto Rename Tag <br>
+GlassIt-VSC <br>
+Material Icon Theme <br>
+Modern Purple Theme <br>
+Path Autocomplete <br>
+Prettier - Code formatter <br>
+<br>
