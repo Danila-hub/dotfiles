@@ -127,7 +127,7 @@ https://aur.archlinux.org/packages/visual-studio-code-bin
 
 settings.json -> ~/.config/Code/User/ <br>
 
-List of recommend extensions and theme: <br>
+List of recommend extensions and theme: <br> <br>
 Auto Close Tag <br>
 Auto Rename Tag <br>
 GlassIt-VSC <br>
@@ -135,4 +135,14 @@ Material Icon Theme <br>
 Modern Purple Theme <br>
 Path Autocomplete <br>
 Prettier - Code formatter <br>
+
 <br>
+
+<h3>Ranger:</h3>
+
+ranger from official rep<br>
+https://archlinux.org/packages/community/any/ranger/
+(Don't forget to install python-pillow, because in ranger set image preview is kitty) <br>
+<br>
+
+ranger -> ~/.config/
