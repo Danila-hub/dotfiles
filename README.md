@@ -135,7 +135,7 @@ Material Icon Theme <br>
 Modern Purple Theme <br>
 Path Autocomplete <br>
 Prettier - Code formatter <br>
-eCSStractor for VSCode <br>
+eCSStractor for VSCode (xclip to arch) <br>
 
 <br>
 
