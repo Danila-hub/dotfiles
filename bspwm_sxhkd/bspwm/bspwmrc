@@ -5,7 +5,7 @@ xsetroot -cursor_name left_ptr &
 
 picom --experimental-backend &
 
-nvidia-settings &    
+nvidia-settings -l &    
 nitrogen --restore &
 
 
