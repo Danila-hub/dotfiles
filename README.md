@@ -1,3 +1,24 @@
+<h2> Preferred Software </h2>
+firefox <br>
+chrome <br>
+yandex <br>
+tor <br>
+telegram <br>
+krita <br>
+Linkscape <br>
+Lunacy <br>
+qBittorrent <br>
+obs <br>
+only office <br>
+figma <br>
+gcolor <br>
+kitty <br>
+kdiskmark <br>
+cpupower-gui <br>
+
+
+
+
 <h3>Polybar:</h3>
 
 Rep from aur: <br>
