@@ -11,6 +11,7 @@
     "@scss": "${folder}/src/scss",
     "@js": "${folder}/src/js"
   },
+  "editor.fontLigatures": true,
   "explorer.confirmDelete": false,
   "prettier.jsxSingleQuote": true,
   "prettier.singleQuote": true,
